@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-Using-LSTM-Deep-Learning-Model-
+# Live Stock Price Prediction
